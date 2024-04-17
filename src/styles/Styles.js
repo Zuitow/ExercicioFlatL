@@ -30,5 +30,16 @@ export const styles = StyleSheet.create({
   },
   Flatlist: {
     height: 1500,
+  },
+  Imagens: {
+    width: 300,
+    height: 300
+  },
+  botao: {
+    width: 300,
+    height: 80,
+    borderWidth: 1,
+    alignItems: 'center',
+    justifyContent: 'center'
   }
 });
